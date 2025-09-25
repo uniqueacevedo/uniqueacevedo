@@ -2,11 +2,11 @@
 
 ### About
 
-✧ I’m Unique Acevedo, an electrical engineering student focused on hardware design and flow.
+➢ I’m Unique Acevedo, an electrical engineering student focused on hardware design and flow.
 
-✧ My interests include VLSI, RTL, Physical Design, PCB's and all things hardware & signals.
+➢ My interests include VLSI, RTL, Physical Design, PCB's and all things hardware & signals.
 
-✧ This GitHub serves as a record of my self-taught journey, showcasing both my progress and the projects I've completed.
+➢ This GitHub serves as a record of my self-taught journey, showcasing both my progress and the projects I've completed.
 
 ---
 
